@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accountList>
+    <databaseAccounts>
+        <accountNumber>123</accountNumber>
+        <pin>pin</pin>
+        <availableBalance>300.0</availableBalance>
+        <totalBalance>300.0</totalBalance>
+    </databaseAccounts>
+</accountList>
